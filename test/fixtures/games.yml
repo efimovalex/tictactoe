@@ -1,0 +1,33 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  player_x: MyString
+  player_o: MyString
+  winner: MyString
+  turn: MyString
+  cell1: MyString
+  cell2: MyString
+  cell3: MyString
+  cell4: MyString
+  cell5: MyString
+  cell6: MyString
+  cell7: MyString
+  cell8: MyString
+  cell9: MyString
+  is_tie_game: false
+
+two:
+  player_x: MyString
+  player_o: MyString
+  winner: MyString
+  turn: MyString
+  cell1: MyString
+  cell2: MyString
+  cell3: MyString
+  cell4: MyString
+  cell5: MyString
+  cell6: MyString
+  cell7: MyString
+  cell8: MyString
+  cell9: MyString
+  is_tie_game: false
